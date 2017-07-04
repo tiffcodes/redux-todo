@@ -1,6 +1,6 @@
-This project was created to learn synchronous redux! 
+### This project was created to learn synchronous redux! 
 
-
+based off of http://redux.js.org/docs/basics/ExampleTodoList.html
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
